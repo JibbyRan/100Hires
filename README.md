@@ -29,5 +29,5 @@ One issue I still have is that my GitHub repository does not appear in Cursor ye
 ### Current Status
 I have completed the main setup steps and created the repository, but I am still troubleshooting the connection between GitHub and Cursor. I will continue to work on this and update my progress later.
 
-### PS
-I am really sorry for the very close deadline submission. I need to manage some personal matters, and I only have about five hours before the deadline. I know there is no excuse, and I am just trying to be transparent about my current situation and my progress with the application process. I respect whatever decision you make.
+### Next Steps
+I am continuing to troubleshoot the Cursor–GitHub connection issue and learn more about the workflow. As I become more familiar with the tools, I plan to improve my setup and update this repository with additional notes and lessons learned.
